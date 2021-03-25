@@ -9,3 +9,5 @@
 1. [基于组合神经网络模型的新冠疫情传播预测分析](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=RJDK202010004&v=V81bKPUIWb%25mmd2FkryfZev69E38RxwQHAd1YuTE0kGg%25mmd2FVfBJDsI7QCPxzVltC1LBKvez)
 2. [基于BPNN的COVID -19疫情预测及SEIR的高校复学分析](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=GWSY202006005&v=iRCQPBhlC3PojoKytvNdjRJVG3vFve9ya5wcB7%25mmd2Bx1mhY11yJrOIkBbTgmf7ZbUxi)
 3. [基于长短期记忆网络的COVID-19疫情趋势序列分析预测](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=SYSX202006009&v=8lf8HI6hiFhtzcF19v5DMhhP1tQzJokashLPc%25mmd2FOB2NE1lXtLK9bPiesGs7BSygRX)
+## ScienceDirect
+1. [Early forecasting of the potential risk zones of COVID-19 in China's megacities](https://www.sciencedirect.com/science/article/pii/S0048969720325122)
